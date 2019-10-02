@@ -1,3 +1,14 @@
+'''
+-------------------------------------------------------------------------------
+Name:		problem 2.py
+Purpose:	calculate the amount of fried chicken the students and mr fabroa get
+
+Author:	Yu.A
+
+Created:	october 2 2019
+------------------------------------------------------------------------------
+'''
+
 # get number of students and number of chicken from user
 students = int(input("number of students: "))
 fried_chicken = int(input("number of fried chickens: "))

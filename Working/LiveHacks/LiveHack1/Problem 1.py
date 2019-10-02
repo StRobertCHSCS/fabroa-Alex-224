@@ -1,3 +1,14 @@
+'''
+-------------------------------------------------------------------------------
+Name:		problem 1.py
+Purpose:	calculate farenheit from celsius
+
+Author:	Yu.A
+
+Created:	october 2 2019
+------------------------------------------------------------------------------
+'''
+
 # get celsius from user
 celsius = float(input("enter the celsius: "))
 
